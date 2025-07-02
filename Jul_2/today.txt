@@ -1,1 +1,6 @@
+Cara guna github, create repository.
+Cara guna cursor.
+Cara masukkan balik dari cursor ke github.
+Cara guna gitbash clone,add,commit and push.
+Installation elixir, erlang.
 
