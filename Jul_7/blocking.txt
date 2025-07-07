@@ -1,1 +1,3 @@
-
+Mau apply C.R.U.D di apps sendiri (periodTracker)
+Banyak error di update_user,dlete_user.
+Masih belum paham untuk pembentangan.
