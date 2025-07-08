@@ -1,0 +1,2 @@
+Belajar C.R.U.D 
+Belajar function C.R.U.D, cara apply di web sendiri.
