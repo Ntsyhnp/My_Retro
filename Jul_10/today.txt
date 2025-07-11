@@ -1,0 +1,2 @@
+Buat pembentangan tentang string.
+Belajar buat function pengiraan bmi.
