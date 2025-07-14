@@ -1,0 +1,3 @@
+Belajar cara guna html,css,tailwind css.
+Belajar mcm mana mau tukar font, tukar saiz, tukar bentuk gambar.
+Belajar cara convert dari css file pegi tailwind css.

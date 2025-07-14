@@ -1,0 +1,3 @@
+Awal-awal buat html dan css ada masalah time  mau kasih center ayat pegi tengah.
+Ndatau mcm mana mau ubah pegi layout yang lain.
+
