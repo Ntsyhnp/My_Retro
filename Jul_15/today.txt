@@ -1,0 +1,3 @@
+belajar pasal relationship yang ada data based. ( belongs_to dan has_many).
+Cara buat design data based.
+Belajar apa function relationship dalam data based.
