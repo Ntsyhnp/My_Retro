@@ -1,0 +1,4 @@
+Blocking time mula-mula buat local host untuk user,loan dan book.
+Blocking time mau kasih diplay book.id , user.id sbb saya terus isi di loan tapi tidak isi di user.
+Blocking untuk kasih show buku yang user pinjam tpi belum dapat buat sbb error.
+Paling penting harini banyak blocking..
