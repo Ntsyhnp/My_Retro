@@ -1,0 +1,3 @@
+Harini belajar apa tu enum, apa fungsi enum, berapa banyak enum yang selalu diguna pakai.
+Belajar apa tu enum group_by/2, group_by/3.
+Apa fungsi enum group_by, mcm mana mau apply dlm sistem.
