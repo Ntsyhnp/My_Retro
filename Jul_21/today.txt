@@ -1,2 +1,1 @@
-Sir ada bag new project sistem tempahan aset pejabat, buat erd.
-
+Belajar cara buat login untuk user, apa prosess yang berlaku.
