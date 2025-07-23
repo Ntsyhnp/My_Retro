@@ -1,1 +1,1 @@
-
+Blocking bahagian pengiraan bmi dan masukkan ic. butto suda ada tapi tidak berfungsi.

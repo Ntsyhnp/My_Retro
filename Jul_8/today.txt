@@ -1,2 +1,2 @@
 Buat pembentangan tentang C.R.U.D 
-
+Cara buat migrate, apply migrate.

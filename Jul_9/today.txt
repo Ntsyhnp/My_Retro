@@ -1,1 +1,3 @@
-
+Belajar guna string, cara penggunaan string.
+Belajar cara untuk gabungkan string.
+Try untuk faham basic string dan try apply ikut yang kena ajar.
