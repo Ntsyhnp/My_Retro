@@ -1,1 +1,1 @@
-Belajar cara buat login untuk user, apa prosess yang berlaku.
+Belajar cara buat login untuk user, apa prosess yang berlaku, macam mana mau tukar suapaya dari email tukar pegi nama seja yang kena display.
