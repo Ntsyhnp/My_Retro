@@ -1,1 +1,1 @@
-
+Ambil masa untuk faham mcm mana enum group_by tu berfungsi,di mana yang patut sya letak functions.
