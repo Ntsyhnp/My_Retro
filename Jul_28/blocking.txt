@@ -1,0 +1,3 @@
+Blocking time mau ubah-ubah layout, mau kasih lebar, kasih center.
+Ambil masa untuk faham macam mana mau kasih muncul sidebar.
+Masih belum dapat buat klau mau login terus keluar pegi dashboard.
