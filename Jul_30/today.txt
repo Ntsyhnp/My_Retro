@@ -1,2 +1,2 @@
-Belajar buat submenu,pagination.
-Sambung buat sidebar menu
+Kasih selesai masalah yang terdapat di pagination. 
+Try kasih keluar parameter di url.

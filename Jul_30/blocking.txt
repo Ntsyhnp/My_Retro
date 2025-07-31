@@ -1,4 +1,2 @@
-Ambil masa yang lama untuk buat submenu, pagination.
-Banyak error time buat list_email yang sedia ada dari databased.
-Error time edit-edit profile mau display content.
-
+Ambil masa yang lama untuk buat parameter display di url.
+Ada masalah di pagination bila tekan next page terus di display page ke2 walaupun page 1 belum sampai 10orang.
