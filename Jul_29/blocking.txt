@@ -1,0 +1,3 @@
+Ambil masa yang lama untuk buat submenu, pagination.
+Banyak error time buat list_email yang sedia ada dari databased.
+Error time edit-edit profile mau display content.
