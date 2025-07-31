@@ -1,0 +1,2 @@
+Blocking time buat filtering, search bardan tapis banyak kali error sebab ada yang salah tempat. 
+Ambil masa yang lama untuk fix error yang sama, banyak kali tukar dan betulkan ikut chat gpt tetap error.
